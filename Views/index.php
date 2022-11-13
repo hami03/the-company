@@ -24,6 +24,7 @@
 
                 </form>
                 <p class="text-center small mt-3"><a href="register.php">Create Account</a></p>
+                <p class="text-center small mt-3 text-muted">Copyright @ 2022</p>
              </div>
           </div>
        </div>
